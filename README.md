@@ -1,4 +1,5 @@
 # zi2zi with self-attention
+![Architecture](https://github.com/daihuajiang/zi2zi_with_selfattention/blob/main/img/zi2zi%2Battn%E6%9E%B6%E6%A7%8B%E5%9C%96.bmp)
 A zi2zi pytorch implement based on [zi2zi-pytorch](https://github.com/EuphoriaYan/zi2zi-pytorch). Adding A self-attention block in bottleneck.
 #### Requirement
 We use the environment below:
