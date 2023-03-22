@@ -1,6 +1,20 @@
 # zi2zi with self-attention
 ![Architecture](https://github.com/daihuajiang/zi2zi_with_selfattention/blob/main/img/zi2zi%2Battn%E6%9E%B6%E6%A7%8B%E5%9C%96.bmp)
-A zi2zi pytorch implement based on [zi2zi-pytorch](https://github.com/EuphoriaYan/zi2zi-pytorch). Adding A self-attention block in bottleneck.
+A zi2zi pytorch implement based on [zi2zi-pytorch](https://github.com/EuphoriaYan/zi2zi-pytorch). Adding A self-attention block in bottleneck.  
+Font style:  
+![](https://github.com/daihuajiang/zi2zi_with_selfattention/blob/main/img/fontstyle.jpg)  
+悠哉體->標楷體:  
+![](https://github.com/daihuajiang/zi2zi_with_selfattention/blob/main/img/yoazai2kai.jpg)  
+悠哉體->隸書:  
+![](https://github.com/daihuajiang/zi2zi_with_selfattention/blob/main/img/yoazai2lisu.jpg)  
+手寫字1->標楷體:  
+![](https://github.com/daihuajiang/zi2zi_with_selfattention/blob/main/img/handwriting1_2kai.jpg)  
+手寫字1->隸書:  
+![](https://github.com/daihuajiang/zi2zi_with_selfattention/blob/main/img/handwriting1_2lisu.jpg)  
+手寫字2->標楷體:  
+![](https://github.com/daihuajiang/zi2zi_with_selfattention/blob/main/img/handwriting2_2kai.jpg)  
+手寫字2->隸書:  
+![](https://github.com/daihuajiang/zi2zi_with_selfattention/blob/main/img/handwriting2_2lisu.jpg)  
 #### Requirement
 We use the environment below:
 
